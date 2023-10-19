@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wHZXhAk9ufg8yHI7jAVGNr2aW1fJIrDTyHj2Axmro1nTmvt4csDqpejuUPZnZMN1MeDNb3SXw46SU01ftpvpfg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MINEDUCYT\\Desktop\\Mio\\Cursos\\F#\\HelloWorld\\HelloWorld\\HelloWorld.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MINEDUCYT\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
